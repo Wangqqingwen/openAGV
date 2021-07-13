@@ -1,7 +1,7 @@
 package com.robot.mvc.core.enums;
 
-import com.duangframework.db.annotation.Entity;
 import com.robot.mvc.core.annnotations.*;
+import com.robot.mvc.db.annotation.Entity;
 import org.eclipse.jetty.websocket.api.annotations.WebSocket;
 
 import java.lang.annotation.Annotation;

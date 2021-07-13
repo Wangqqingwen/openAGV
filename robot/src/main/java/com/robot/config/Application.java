@@ -179,4 +179,8 @@ public class Application {
             watcher.run();
         }
     }
+
+    public static void main(String[] args) {
+        duang().run();
+    }
 }
